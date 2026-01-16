@@ -705,7 +705,7 @@ a:focus {
     width: 100%; /* Only as wide as the content */
     /* Minimum width so it doesn't look squashed */
     min-width: 350px;
-    max-width: 1080px;
+    max-width: 1050px;
     padding: 16px 32px; /* Chunky padding for the premium look */
     margin-left: auto;
     margin-right: auto;
